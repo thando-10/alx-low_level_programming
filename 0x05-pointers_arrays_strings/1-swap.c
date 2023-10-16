@@ -2,7 +2,7 @@
 
 /**
  *swap_int - take in two variable integers and swaps them
- *@change: carries the variable
+ *@author Anisah
  *@a: swaps and stores address of b
  *@b: swaps and stores address of a
  *Return: 0
