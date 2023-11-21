@@ -5,13 +5,12 @@
 #include <stdlib.h>
 
 /**
- *struct listint_s - singly linked list
- *
+ * struct listint_s - singly linked list
  *@n: intger
- *@next: points to the next node
+ *@next: points tot the next node
  *
  *Description: singly linked list node structure
- *for alx project
+ *
  */
 
 typedef struct listint_s
@@ -21,5 +20,6 @@ typedef struct listint_s
 } listint_t;
 
 size_t print_listint(const listint_t *h);
+size_t listint_len(const listint_t *h);
 
 #endif
