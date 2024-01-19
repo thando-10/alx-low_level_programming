@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- *  * main - check the code
+ *  *main - check the code
  *   *
  *    * Return: Always EXIT_SUCCESS.
  *     */
